@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="tr" data-theme="sepya">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kitap Köşkü</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <!-- ============ KÜTÜPHANE ============ -->
+  <section id="libraryView" class="view">
+    <aside class="sidebar">
+      <div class="brand">
+        <svg viewBox="0 0 40 40" class="brand-mark" aria-hidden="true"><path d="M6 9c5-2 10-1 14 2v22c-4-3-9-4-14-2z" fill="currentColor" opacity=".55"/><path d="M34 9c-5-2-10-1-14 2v22c4-3 9-4 14-2z" fill="currentColor"/><path d="M20 4l2.2 3.6L20 6.6l-2.2 1z" fill="var(--accent)"/></svg>
+        <div><b>Kitap Köşkü</b><small>internetsiz kütüphane</small></div>
+      </div>
+      <nav id="nav">
+        <button data-nav="home" class="on"><i>⌂</i>Ana Sayfa</button>
+      </nav>
+      <div class="side-title">Diller</div>
+      <nav id="langNav">
+        <button data-nav="tr"><i class="lng">TR</i>Türkçe Kitaplar <span class="count" id="cntTr"></span></button>
+        <button data-nav="en"><i class="lng">EN</i>İngilizce Kitaplar <span class="count" id="cntEn"></span></button>
+      </nav>
+      <div class="side-title">Benim</div>
+      <nav id="myNav">
+        <button data-nav="continue"><i>↻</i>Okumaya Devam <span class="count" id="cntContinue"></span></button>
+        <button data-nav="favorites"><i>★</i>Favoriler <span class="count" id="cntFav"></span></button>
+        <button data-nav="bookmarks"><i>❙</i>Yer İmleri <span class="count" id="cntBm"></span></button>
+        <button data-nav="words"><i>Aa</i>Kelimelerim <span class="count" id="cntWords"></span></button>
+      </nav>
+      <div class="side-title">Türler</div>
+      <nav id="genreNav"></nav>
+      <div class="side-foot" id="sideStats"></div>
+    </aside>
+
+    <main class="main" id="main">
+      <header class="topbar">
+        <div class="search">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16.5 16.5L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input id="q" placeholder="Kitap, yazar ya da konu ara…  ( / )" autocomplete="off">
+        </div>
+        <button class="icon-btn" id="themeBtn" title="Tema"><span>◐</span></button>
+      </header>
+      <div id="content"></div>
+    </main>
+  </section>
+
+  <!-- ============ OKUYUCU ============ -->
+  <section id="readerView" class="view hidden">
+    <header class="rbar">
+      <button class="icon-btn" id="rBack" title="Kütüphaneye dön (Esc)">←</button>
+      <div class="rtitle"><b id="rBook"></b><span id="rChap"></span></div>
+      <div class="rtools">
+        <div class="seg small hidden" id="modeSeg" title="Okuma dili">
+          <button data-mode="en">EN</button><button data-mode="tr">TR</button><button data-mode="both">İkisi</button>
+        </div>
+        <button class="icon-btn" id="rSearchBtn" title="Kitapta ara (Ctrl+F)">⌕</button>
+        <button class="icon-btn" id="rTocBtn" title="İçindekiler">☰</button>
+        <button class="icon-btn" id="rMarkBtn" title="Yer imi ekle (B)">❙</button>
+        <button class="icon-btn" id="rFontBtn" title="Görünüm">Aa</button>
+        <button class="icon-btn" id="rFullBtn" title="Tam ekran (F)">⤢</button>
+      </div>
+    </header>
+    <div class="rscroll" id="rScroll">
+      <article class="page" id="page"></article>
+    </div>
+    <footer class="rfoot">
+      <button class="nav-btn" id="rPrev">‹ Önceki bölüm</button>
+      <div class="rprog"><div class="bar"><i id="rBar"></i></div><span id="rPct"></span></div>
+      <button class="nav-btn" id="rNext">Sonraki bölüm ›</button>
+    </footer>
+
+    <div class="panel" id="tocPanel"><div class="panel-head"><b>İçindekiler</b><button class="x">✕</button></div><div class="panel-body" id="tocList"></div></div>
+    <div class="panel" id="searchPanel"><div class="panel-head"><input id="rq" placeholder="Bu kitapta ara…"><button class="x">✕</button></div><div class="panel-body" id="searchList"></div></div>
+    <div class="pop" id="fontPop">
+      <div class="row"><label>Tema</label>
+        <div class="themes" id="themePick">
+          <button data-theme="acik" title="Açık">A</button><button data-theme="sepya" title="Sepya">A</button>
+          <button data-theme="koyu" title="Koyu">A</button><button data-theme="gece" title="Gece">A</button>
+        </div></div>
+      <div class="row"><label>Yazı tipi</label>
+        <div class="seg small" id="fontPick"><button data-font="serif">Tırnaklı</button><button data-font="book">Kitap</button><button data-font="sans">Sade</button></div></div>
+      <div class="row"><label>Boyut</label><div class="stepper"><button data-step="size:-1">A−</button><span id="vSize"></span><button data-step="size:1">A+</button></div></div>
+      <div class="row"><label>Satır aralığı</label><div class="stepper"><button data-step="line:-0.1">−</button><span id="vLine"></span><button data-step="line:0.1">+</button></div></div>
+      <div class="row"><label>Sütun genişliği</label><div class="stepper"><button data-step="width:-60">−</button><span id="vWidth"></span><button data-step="width:60">+</button></div></div>
+      <div class="row"><label>Hizalama</label><div class="seg small" id="alignPick"><button data-align="left">Sola</button><button data-align="justify">İki yana</button></div></div>
+      <div class="row" id="hoverRow"><label>Kelime ipucu (İngilizce)</label><div class="seg small" id="hoverPick"><button data-hover="1">Açık</button><button data-hover="0">Kapalı</button></div></div>
+    </div>
+    <div class="word-tip" id="wordTip"></div>
+  </section>
+
+  <!-- ============ KİTAP KARTI ============ -->
+  <div class="modal hidden" id="detail"><div class="modal-card" id="detailCard"></div></div>
+  <div class="toast" id="toast"></div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

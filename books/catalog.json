@@ -1,0 +1,2149 @@
+[
+{
+"id": "ozgun-gece-yarisi-vapuru",
+"title": "Gece Yarısı Vapuru",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Kadıköy'den Karaköy'e son vapuru kaçıran Deniz, tarifede olmayan 00.40 vapuruna biner. Yolcular çok sessizdir; kimsenin telefonu yoktur ve saatler hep aynı yerde durmaktadır.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 962,
+"chapters": 1,
+"size": 3836
+},
+{
+"id": "ozgun-kuyudaki-ses",
+"title": "Kuyudaki Ses",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Dağ köyüne atanan genç öğretmen, köyün ortasındaki kurumuş kuyudan her gece birinin adının fısıldandığını fark eder. Ertesi sabah o kişi ortadan kaybolur.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 1113,
+"chapters": 6,
+"size": 4239
+},
+{
+"id": "ozgun-kapalicarsida-cinayet",
+"title": "Kapalıçarşı'da Cinayet",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"polisiye"
+],
+"desc": "Kapalıçarşı'nın en eski antikacısı, içeriden kilitli dükkânında ölü bulunur. Komiser Nevin Akdağ'ın elinde bir kayıp yüzük, üç şüpheli ve durmuş bir cep saatinden başka ipucu yoktur.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 1293,
+"chapters": 5,
+"size": 4767
+},
+{
+"id": "ozgun-karli-otelde-misafir",
+"title": "Karlı Otelde Son Misafir",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"polisiye"
+],
+"desc": "Tipi yüzünden yolu kapanan bir dağ otelinde, ünlü bir yazar odasında ölü bulunur. Dışarı çıkan ayak izi yoktur, içeride ise yedi misafir vardır. Emekli komiser Nevin Akdağ'ın tatili erken biter.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 1239,
+"chapters": 5,
+"size": 4641
+},
+{
+"id": "ozgun-lodos-gecesi",
+"title": "Lodos Gecesi",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"polisiye",
+"turk"
+],
+"desc": "Kandilli'deki tarihî bir yalıda, lodosun Boğaz'ı dövdüğü bir gece, yaşlı bir harita koleksiyoncusu kütüphanesinde ölü bulunur. Merdivenden düşmüş gibi görünmektedir. Ama bir yıldır merdivene çıkmayan bir adam neden gece yarısı raflara tırmansın? Komiser Nevin Akdağ'ın en uzun soruşturması.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 12474,
+"chapters": 14,
+"size": 36071
+},
+{
+"id": "ozgun-kars-ekspresi",
+"title": "Doğu Ekspresi'nde Son Vagon",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"macera",
+"polisiye"
+],
+"desc": "Ankara'dan Kars'a giden Doğu Ekspresi'nde bir bilgisayar mühendisi, peşindeki adamlardan kaçarken cebindeki küçük bellekte ne olduğunu öğrenmek zorundadır. Önünde yirmi dört saat, karlı bir bozkır ve tek bir tren vardır.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 1041,
+"chapters": 6,
+"size": 4171
+},
+{
+"id": "ozgun-kackarlarin-haritasi",
+"title": "Kaçkarların Haritası",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"macera"
+],
+"desc": "Dedelerinden kalan eski bir sandıkta el çizimi bir harita bulan iki kardeş, Kaçkar Dağları'nın sisli yaylalarında yüz yıllık bir sırrın peşine düşer. Ama haritanın peşinde olan yalnızca onlar değildir.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 1098,
+"chapters": 6,
+"size": 4250
+},
+{
+"id": "ozgun-hafiza-pazari",
+"title": "Hafıza Pazarı",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"bilimkurgu",
+"oyku"
+],
+"desc": "2091 İstanbul'unda insanlar anılarını alıp satabilmektedir. Kapalıçarşı'nın yeraltı katında anı tüccarlığı yapan Lale, bir gün kendi çocukluğuna ait olduğunu sandığı bir anıyla karşılaşır.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 820,
+"chapters": 5,
+"size": 3241
+},
+{
+"id": "ozgun-marstan-mektup",
+"title": "Mars'tan Yirmi Dakika",
+"author": "Kitap Köşkü",
+"lang": "tr",
+"genres": [
+"bilimkurgu",
+"oyku"
+],
+"desc": "Mars'taki ilk Türk koloni istasyonunda çalışan bir mühendis ile Dünya'daki annesi arasındaki mesajlar. Her cevap yirmi dakika gecikmeyle gelir ve bir gün istasyondan gelen mesajlar kesilir.",
+"source": "Kitap Köşkü özgün öyküsü",
+"original": true,
+"words": 871,
+"chapters": 1,
+"size": 3218
+},
+{
+"id": "omer-seyfettin-tarihi",
+"title": "Kahramanlık Hikâyeleri",
+"author": "Ömer Seyfettin",
+"lang": "tr",
+"genres": [
+"turk",
+"macera",
+"oyku"
+],
+"desc": "Forsa, Başını Vermeyen Şehit, Pembe İncili Kaftan, Kızıl Elma Neresi? ve diğer tarihî, kahramanlık dolu hikâyeler.",
+"source": "Vikikaynak",
+"words": 28243,
+"chapters": 16,
+"size": 88682
+},
+{
+"id": "kurk-mantolu-madonna",
+"title": "Kürk Mantolu Madonna",
+"author": "Sabahattin Ali",
+"lang": "tr",
+"genres": [
+"turk",
+"klasik"
+],
+"desc": "Ankara'da sıradan bir memur olan Raif Efendi'nin defterinden, 1920'lerin Berlin'inde ressam Maria Puder'e duyduğu sessiz ve derin aşk.",
+"source": "Vikikaynak",
+"year": 1943,
+"words": 40133,
+"chapters": 14,
+"size": 118473
+},
+{
+"id": "omer-seyfettin-secme",
+"title": "Seçme Hikâyeler",
+"author": "Ömer Seyfettin",
+"lang": "tr",
+"genres": [
+"turk",
+"oyku"
+],
+"desc": "Kaşağı, Kesik Bıyık, Falaka, Pireler, Perili Köşk… Türk öykücülüğünün ustasından mizah ve hayat dolu hikâyeler.",
+"source": "Vikikaynak",
+"words": 86719,
+"chapters": 57,
+"size": 264357
+},
+{
+"id": "ozgun-poe-seckiler",
+"title": "Edgar Allan Poe: Seçme Öyküler",
+"author": "Edgar Allan Poe",
+"lang": "tr",
+"genres": [
+"korku",
+"klasik",
+"oyku"
+],
+"desc": "Gece yarısı bir ihtiyarın kapısını aralayan katil, vebadan kaçıp kendini şatosuna kapatan prens, şarap mahzeninde intikam bekleyen adam... Korku edebiyatının ustası Poe'dan dört öykü, yeni Türkçe çeviriyle.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü",
+"kind": "ceviri",
+"words": 5427,
+"chapters": 4,
+"size": 17577
+},
+{
+"id": "ozgun-frankenstein",
+"title": "Frankenstein ya da Modern Prometheus",
+"author": "Mary Shelley",
+"lang": "tr",
+"genres": [
+"korku",
+"klasik",
+"bilimkurgu"
+],
+"desc": "Genç bilim insanı Victor Frankenstein ölüye can vermenin sırrını bulur ve yarattığı varlıktan dehşetle kaçar. Yalnız, reddedilmiş ve giderek öfkelenen yaratık ise yaratıcısının peşine düşer. Mary Shelley'nin 1818'de yazdığı, korku ve bilim kurgunun ilk büyük romanı; tam metin, yeni Türkçe çeviri.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü",
+"kind": "ceviri",
+"words": 50883,
+"chapters": 28,
+"size": 149815
+},
+{
+"id": "ozgun-dede-korkut-hikayeleri",
+"title": "Dede Korkut Hikâyeleri",
+"author": "Halk anlatısı",
+"lang": "tr",
+"genres": [
+"masal",
+"turk",
+"macera"
+],
+"desc": "Oğuz boylarının on iki destanı: Boğaç Han, Bamsı Beyrek, Deli Dumrul, Kan Turalı, Basat ile Tepegöz ve ötekiler. Ozan Dede Korkut'un ağzından, bugünün Türkçesiyle yeniden anlatıldı.",
+"source": "Kitap Köşkü derlemesi",
+"kind": "derleme",
+"words": 6285,
+"chapters": 13,
+"size": 17602
+},
+{
+"id": "ozgun-ezop-masallari",
+"title": "Ezop Masalları",
+"author": "Ezop (Aisopos)",
+"lang": "tr",
+"genres": [
+"masal",
+"klasik"
+],
+"desc": "Tilki ile üzüm, kaplumbağa ile tavşan, karınca ile ağustosböceği... İki bin altı yüz yıl önce yaşamış Ezop'un hayvanlarla anlattığı otuz kısa masal ve dersleri, yeni bir Türkçe anlatımla.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü",
+"kind": "ceviri",
+"words": 2002,
+"chapters": 31,
+"size": 6921
+},
+{
+"id": "ozgun-grimm-andersen-masallari",
+"title": "Grimm ve Andersen'den Masallar",
+"author": "Grimm Kardeşler, H. C. Andersen",
+"lang": "tr",
+"genres": [
+"masal",
+"klasik"
+],
+"desc": "Kırmızı Başlıklı Kız, Hansel ile Gretel, Kurbağa Prens, Rumpelstiltskin, Kralın Yeni Giysileri, Bezelye Prensesi ve Kibritçi Kız. Dünyanın en sevilen yedi masalı, yeni Türkçe çeviriyle.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü (İngilizce çevirilerden)",
+"kind": "ceviri",
+"words": 6436,
+"chapters": 7,
+"size": 18486
+},
+{
+"id": "ozgun-keloglan-masallari",
+"title": "Keloğlan Masalları",
+"author": "Halk anlatısı",
+"lang": "tr",
+"genres": [
+"masal",
+"turk",
+"mizah"
+],
+"desc": "Saçı yok ama aklı var! Devleri kandıran, padişahın kızını alan, annesinin sözünü harfi harfine tutan Keloğlan'ın Anadolu'da kuşaktan kuşağa anlatılan altı masalı.",
+"source": "Kitap Köşkü derlemesi",
+"kind": "derleme",
+"words": 1682,
+"chapters": 6,
+"size": 5417
+},
+{
+"id": "turk-halk-masallari",
+"title": "Türk Halk Masalları",
+"author": "Anonim",
+"lang": "tr",
+"genres": [
+"masal",
+"turk"
+],
+"desc": "Keloğlan ve Padişah, Kuyruksuz Tilki, Külden Eşek ve Anadolu'dan derlenmiş diğer masallar.",
+"source": "Vikikaynak",
+"words": 4732,
+"chapters": 8,
+"size": 13194
+},
+{
+"id": "ozgun-nasreddin-hoca",
+"title": "Nasreddin Hoca Fıkraları",
+"author": "Halk anlatısı",
+"lang": "tr",
+"genres": [
+"mizah",
+"turk"
+],
+"desc": "Göle maya çalan, kazanın doğurduğuna inanan, eşeğine ters binen Nasreddin Hoca'dan 37 fıkra. Yüzyıllardır dilden dile dolaşan hikâyeler, bugünün Türkçesiyle yeniden anlatıldı.",
+"source": "Kitap Köşkü derlemesi",
+"kind": "derleme",
+"words": 2052,
+"chapters": 37,
+"size": 6623
+},
+{
+"id": "ozgun-cehov-seckiler",
+"title": "Anton Çehov: Seçme Öyküler",
+"author": "Anton Çehov",
+"lang": "tr",
+"genres": [
+"oyku",
+"klasik",
+"mizah"
+],
+"desc": "Köpeğin sahibi değiştikçe fikri değişen komiser, hapşırığı yüzünden ölen memur, eski arkadaşının rütbesini duyunca küçülen adam, dedesine mektup yazan dokuz yaşındaki çırak ve on beş yıllık bir bahis. Rus öykücülüğünün ustası Çehov'dan beş öykü.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü (Constance Garnett'in İngilizce çevirisinden)",
+"kind": "ceviri",
+"words": 4866,
+"chapters": 5,
+"size": 16330
+},
+{
+"id": "ozgun-o-henry-seckiler",
+"title": "O. Henry: Seçme Öyküler",
+"author": "O. Henry",
+"lang": "tr",
+"genres": [
+"oyku",
+"klasik",
+"mizah"
+],
+"desc": "Noel armağanı için en kıymetli şeyini satan iki genç, yirmi yıl sonra buluşmaya gelen iki eski dost, son yaprağı bekleyen hasta bir ressam ve kaçıranları canından bezdiren bir çocuk. Sürpriz sonların ustası O. Henry'den dört öykü.",
+"source": "Kitap Köşkü çevirisi",
+"translator": "Kitap Köşkü",
+"kind": "ceviri",
+"words": 6851,
+"chapters": 4,
+"size": 22018
+},
+{
+"id": "en-1188",
+"title": "The Lair of the White Worm",
+"author": "Bram Stoker",
+"lang": "en",
+"genres": [
+"korku"
+],
+"desc": "Bram Stoker'ın son romanı: İngiliz kırsalında yaşayan kadim bir yaratık.",
+"source": "Project Gutenberg #1188",
+"tr": "Beyaz Solucanın İni",
+"words": 55077,
+"chapters": 28,
+"size": 113771
+},
+{
+"id": "en-8486",
+"title": "Ghost Stories of an Antiquary",
+"author": "M. R. James",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "M. R. James'in eski kiliseler, el yazmaları ve lanetli eşyalarla dolu klasik hayalet öyküleri.",
+"source": "Project Gutenberg #8486",
+"tr": "Bir Antikacının Hayalet Hikâyeleri",
+"words": 45168,
+"chapters": 11,
+"size": 96167
+},
+{
+"id": "en-389",
+"title": "The Great God Pan",
+"author": "Arthur Machen",
+"lang": "en",
+"genres": [
+"korku"
+],
+"desc": "Bir beyin ameliyatıyla 'perdenin ardını' gören kızın yol açtığı kâbuslar zinciri.",
+"source": "Project Gutenberg #389",
+"tr": "Büyük Tanrı Pan",
+"words": 21631,
+"chapters": 8,
+"size": 45200
+},
+{
+"id": "en-10007",
+"title": "Carmilla",
+"author": "Sheridan Le Fanu",
+"lang": "en",
+"genres": [
+"korku"
+],
+"desc": "Drakula'dan önce yazılmış, ıssız bir şatoya konuk olan gizemli genç kadının vampir hikâyesi.",
+"source": "Project Gutenberg #10007",
+"tr": "Carmilla",
+"words": 27762,
+"chapters": 16,
+"size": 58936
+},
+{
+"id": "en-68283",
+"title": "The Call of Cthulhu",
+"author": "H. P. Lovecraft",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Lovecraft'ın en ünlü öyküsü: denizin dibinde uyuyan kadim varlık ve onu bekleyen tarikat.",
+"source": "Project Gutenberg #68283",
+"tr": "Cthulhu'nun Çağrısı",
+"words": 11768,
+"chapters": 3,
+"size": 28570
+},
+{
+"id": "en-70652",
+"title": "At the Mountains of Madness",
+"author": "H. P. Lovecraft",
+"lang": "en",
+"genres": [
+"korku",
+"bilimkurgu"
+],
+"desc": "Antarktika'ya giden bir bilim heyetinin buzların altında bulduğu kadim şehir.",
+"source": "Project Gutenberg #70652",
+"tr": "Delilik Dağlarında",
+"words": 39553,
+"chapters": 12,
+"size": 91086
+},
+{
+"id": "en-174",
+"title": "The Picture of Dorian Gray",
+"author": "Oscar Wilde",
+"lang": "en",
+"genres": [
+"korku",
+"klasik"
+],
+"desc": "Yaşlanmayan genç bir adam ve onun yerine çürüyen gizli portresi.",
+"source": "Project Gutenberg #174",
+"tr": "Dorian Gray'in Portresi",
+"words": 78505,
+"chapters": 20,
+"size": 160194
+},
+{
+"id": "en-43",
+"title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+"author": "Robert Louis Stevenson",
+"lang": "en",
+"genres": [
+"korku",
+"klasik"
+],
+"desc": "Saygın bir doktorun içindeki karanlık benliği bir iksirle serbest bırakmasının ürpertici öyküsü.",
+"source": "Project Gutenberg #43",
+"tr": "Dr. Jekyll ve Bay Hyde",
+"words": 25529,
+"chapters": 11,
+"size": 53773
+},
+{
+"id": "en-345",
+"title": "Dracula",
+"author": "Bram Stoker",
+"lang": "en",
+"genres": [
+"korku",
+"klasik"
+],
+"desc": "Transilvanya'daki şatosundan Londra'ya göç eden kontun ve onu durdurmaya çalışan bir avuç insanın mektuplar ve günlüklerle anlatılan hikâyesi.",
+"source": "Project Gutenberg #345",
+"tr": "Drakula",
+"words": 160275,
+"chapters": 27,
+"size": 314400
+},
+{
+"id": "en-50133",
+"title": "The Dunwich Horror",
+"author": "H. P. Lovecraft",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Issız bir New England köyünde doğan tuhaf çocuk ve tepelerdeki görünmez dehşet.",
+"source": "Project Gutenberg #50133",
+"tr": "Dunwich Dehşeti",
+"words": 17160,
+"chapters": 10,
+"size": 40200
+},
+{
+"id": "en-84",
+"title": "Frankenstein; Or, the Modern Prometheus",
+"author": "Mary Shelley",
+"lang": "en",
+"genres": [
+"korku",
+"bilimkurgu",
+"klasik"
+],
+"desc": "Ölüye can vermeyi başaran genç bilim insanı Victor Frankenstein ve yarattığı yalnız varlığın trajedisi.",
+"source": "Project Gutenberg #84",
+"tr": "Frankenstein",
+"words": 74908,
+"chapters": 28,
+"size": 155165
+},
+{
+"id": "en-175",
+"title": "The Phantom of the Opera",
+"author": "Gaston Leroux",
+"lang": "en",
+"genres": [
+"korku",
+"macera"
+],
+"desc": "Paris Operası'nın mahzenlerinde yaşayan maskeli dahinin saplantılı aşkı.",
+"source": "Project Gutenberg #175",
+"tr": "Operadaki Hayalet",
+"words": 85347,
+"chapters": 27,
+"size": 173336
+},
+{
+"id": "en-696",
+"title": "The Castle of Otranto",
+"author": "Horace Walpole",
+"lang": "en",
+"genres": [
+"korku",
+"klasik"
+],
+"desc": "Gotik romanın ilk örneği: lanetli bir şato, dev bir miğfer ve bir hanedanın sırları.",
+"source": "Project Gutenberg #696",
+"tr": "Otranto Şatosu",
+"words": 36575,
+"chapters": 6,
+"size": 78619
+},
+{
+"id": "en-2147",
+"title": "The Works of Edgar Allan Poe — Volume 1",
+"author": "Edgar Allan Poe",
+"lang": "en",
+"genres": [
+"korku",
+"polisiye",
+"oyku"
+],
+"desc": "Morgue Sokağı Cinayetleri, Çalınan Mektup ve daha fazlası: modern polisiyenin ve korkunun babasından.",
+"source": "Project Gutenberg #2147",
+"tr": "Poe'nun Eserleri I",
+"words": 90294,
+"chapters": 15,
+"size": 192248
+},
+{
+"id": "en-2148",
+"title": "The Works of Edgar Allan Poe — Volume 2",
+"author": "Edgar Allan Poe",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Usher Evi'nin Çöküşü, Kuyu ve Sarkaç gibi Poe'nun en karanlık hikâyeleri.",
+"source": "Project Gutenberg #2148",
+"tr": "Poe'nun Eserleri II",
+"words": 94834,
+"chapters": 19,
+"size": 208803
+},
+{
+"id": "en-2149",
+"title": "The Works of Edgar Allan Poe — Volume 3",
+"author": "Edgar Allan Poe",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Poe'nun gerilim ve gizem dolu öykülerinden üçüncü derleme.",
+"source": "Project Gutenberg #2149",
+"tr": "Poe'nun Eserleri III",
+"words": 98711,
+"chapters": 27,
+"size": 204719
+},
+{
+"id": "en-1952",
+"title": "The Yellow Wallpaper",
+"author": "Charlotte Perkins Gilman",
+"lang": "en",
+"genres": [
+"korku",
+"oyku",
+"klasik"
+],
+"desc": "Odasına kapatılan genç bir kadının duvar kağıdındaki desenlere takılıp kalışı.",
+"source": "Project Gutenberg #1952",
+"tr": "Sarı Duvar Kağıdı",
+"words": 6085,
+"chapters": 2,
+"size": 13015
+},
+{
+"id": "en-8492",
+"title": "The King in Yellow",
+"author": "Robert W. Chambers",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Okuyanı deliliğe sürükleyen yasaklı bir oyun etrafında dönen tuhaf hikâyeler.",
+"source": "Project Gutenberg #8492",
+"tr": "Sarı Kral",
+"words": 71433,
+"chapters": 29,
+"size": 153397
+},
+{
+"id": "en-41",
+"title": "The Legend of Sleepy Hollow",
+"author": "Washington Irving",
+"lang": "en",
+"genres": [
+"korku",
+"oyku"
+],
+"desc": "Başsız Süvari efsanesiyle ünlü küçük bir kasabada korkak bir öğretmenin başına gelenler.",
+"source": "Project Gutenberg #41",
+"tr": "Uykulu Oyuk Efsanesi",
+"words": 12214,
+"chapters": 3,
+"size": 28449
+},
+{
+"id": "en-209",
+"title": "The Turn of the Screw",
+"author": "Henry James",
+"lang": "en",
+"genres": [
+"korku",
+"klasik"
+],
+"desc": "Kır evinde iki çocuğa bakan mürebbiyenin gördüğü hayaletler gerçek mi, yoksa onun zihninde mi?",
+"source": "Project Gutenberg #209",
+"tr": "Yürek Burgusu",
+"words": 42253,
+"chapters": 25,
+"size": 87053
+},
+{
+"id": "en-6133",
+"title": "The Extraordinary Adventures of Arsène Lupin, Gentleman-Burglar",
+"author": "Maurice Leblanc",
+"lang": "en",
+"genres": [
+"polisiye",
+"macera"
+],
+"desc": "Kibar hırsız Arsène Lupin, polisle ve Herlock Sholmes'la kedi fare oyununda.",
+"source": "Project Gutenberg #6133",
+"tr": "Arsène Lupin'in Maceraları",
+"words": 53720,
+"chapters": 9,
+"size": 114980
+},
+{
+"id": "en-155",
+"title": "The Moonstone",
+"author": "Wilkie Collins",
+"lang": "en",
+"genres": [
+"polisiye",
+"klasik"
+],
+"desc": "Lanetli bir Hint elmasının çalınması: ilk büyük İngiliz polisiye romanı.",
+"source": "Project Gutenberg #155",
+"tr": "Aytaşı",
+"words": 194819,
+"chapters": 47,
+"size": 383464
+},
+{
+"id": "en-2852",
+"title": "The Hound of the Baskervilles",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"korku"
+],
+"desc": "Bataklıkta dolaşan şeytani köpek efsanesi ve Holmes'un en ünlü vakası.",
+"source": "Project Gutenberg #2852",
+"tr": "Baskerville'lerin Köpeği",
+"words": 59018,
+"chapters": 15,
+"size": 118494
+},
+{
+"id": "en-583",
+"title": "The Woman in White",
+"author": "Wilkie Collins",
+"lang": "en",
+"genres": [
+"polisiye",
+"klasik"
+],
+"desc": "Gece yarısı yolda karşılaşılan beyazlar içindeki kadın ve bir miras komplosu.",
+"source": "Project Gutenberg #583",
+"tr": "Beyazlı Kadın",
+"words": 244216,
+"chapters": 52,
+"size": 485940
+},
+{
+"id": "en-434",
+"title": "The Circular Staircase",
+"author": "Mary Roberts Rinehart",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Kiralık bir yazlıkta gece yarısı duyulan sesler ve merdivende bir ceset.",
+"source": "Project Gutenberg #434",
+"tr": "Döner Merdiven",
+"words": 69557,
+"chapters": 34,
+"size": 141209
+},
+{
+"id": "en-2097",
+"title": "The Sign of the Four",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Bir hazine, bir yemin ve tek bacaklı bir adam: Holmes'un ikinci romanı.",
+"source": "Project Gutenberg #2097",
+"tr": "Dörtlerin Yemini",
+"words": 42919,
+"chapters": 12,
+"size": 89592
+},
+{
+"id": "en-1155",
+"title": "The Secret Adversary",
+"author": "Agatha Christie",
+"lang": "en",
+"genres": [
+"polisiye",
+"macera"
+],
+"desc": "Tommy ve Tuppence'ın kayıp bir belgenin peşine düştüğü casusluk macerası.",
+"source": "Project Gutenberg #1155",
+"tr": "Gizli Düşman",
+"words": 74977,
+"chapters": 29,
+"size": 162543
+},
+{
+"id": "en-58866",
+"title": "The Murder on the Links",
+"author": "Agatha Christie",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Poirot, Fransa'da yardım isteyen bir milyonerin cesedini buluyor.",
+"source": "Project Gutenberg #58866",
+"tr": "Golf Sahasında Cinayet",
+"words": 64611,
+"chapters": 16,
+"size": 137311
+},
+{
+"id": "en-3289",
+"title": "The Valley of Fear",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Bir malikânede işlenen cinayet ve Amerika'daki gizli bir örgütün izi.",
+"source": "Project Gutenberg #3289",
+"tr": "Korku Vadisi",
+"words": 57440,
+"chapters": 14,
+"size": 117649
+},
+{
+"id": "en-1872",
+"title": "The Red House Mystery",
+"author": "A. A. Milne",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "A. A. Milne'den bir kır evinde kilitli oda gizemi.",
+"source": "Project Gutenberg #1872",
+"tr": "Kırmızı Ev Cinayeti",
+"words": 59959,
+"chapters": 22,
+"size": 118821
+},
+{
+"id": "en-244",
+"title": "A Study in Scarlet",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Sherlock Holmes ile Dr. Watson'ın tanıştığı ilk macera.",
+"source": "Project Gutenberg #244",
+"tr": "Kızıl Dosya",
+"words": 43187,
+"chapters": 14,
+"size": 91956
+},
+{
+"id": "en-4047",
+"title": "The Leavenworth Case",
+"author": "Anna Katharine Green",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "New York'ta öldürülen zengin bir tüccar ve şüpheli iki yeğen.",
+"source": "Project Gutenberg #4047",
+"tr": "Leavenworth Davası",
+"words": 110460,
+"chapters": 37,
+"size": 225305
+},
+{
+"id": "en-558",
+"title": "The Thirty-Nine Steps",
+"author": "John Buchan",
+"lang": "en",
+"genres": [
+"polisiye",
+"macera"
+],
+"desc": "Bir cinayetle suçlanan adamın İskoçya kırlarında casuslardan kaçışı.",
+"source": "Project Gutenberg #558",
+"tr": "Otuz Dokuz Basamak",
+"words": 40707,
+"chapters": 10,
+"size": 83121
+},
+{
+"id": "en-223",
+"title": "The Wisdom of Father Brown",
+"author": "G. K. Chesterton",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Chesterton'ın sevimli dedektif rahibinden yeni vakalar.",
+"source": "Project Gutenberg #223",
+"tr": "Peder Brown'ın Bilgeliği",
+"words": 71652,
+"chapters": 18,
+"size": 153801
+},
+{
+"id": "en-204",
+"title": "The Innocence of Father Brown",
+"author": "G. K. Chesterton",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Sıradan görünen bir rahibin insan ruhunu okuyarak çözdüğü suçlar.",
+"source": "Project Gutenberg #204",
+"tr": "Peder Brown'ın Saflığı",
+"words": 78912,
+"chapters": 20,
+"size": 167618
+},
+{
+"id": "en-834",
+"title": "The Memoirs of Sherlock Holmes",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Gümüş Yele, Son Problem ve Holmes'un Moriarty ile karşılaşması.",
+"source": "Project Gutenberg #834",
+"tr": "Sherlock Holmes'un Anıları",
+"words": 95375,
+"chapters": 12,
+"size": 192007
+},
+{
+"id": "en-108",
+"title": "The Return of Sherlock Holmes",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Holmes geri dönüyor: Boş Ev, Dans Eden Adamlar ve daha fazlası.",
+"source": "Project Gutenberg #108",
+"tr": "Sherlock Holmes'un Dönüşü",
+"words": 111907,
+"chapters": 19,
+"size": 226555
+},
+{
+"id": "en-1661",
+"title": "The Adventures of Sherlock Holmes",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Bohemya'da Skandal, Kızıl Saçlılar Derneği ve diğer on klasik vaka.",
+"source": "Project Gutenberg #1661",
+"tr": "Sherlock Holmes'un Maceraları",
+"words": 104350,
+"chapters": 12,
+"size": 211507
+},
+{
+"id": "en-69700",
+"title": "The Case-book of Sherlock Holmes",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Doyle'un Holmes için yazdığı son on iki öykü.",
+"source": "Project Gutenberg #69700",
+"tr": "Sherlock Holmes'un Vaka Defteri",
+"words": 82740,
+"chapters": 13,
+"size": 171716
+},
+{
+"id": "en-2350",
+"title": "His Last Bow",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"polisiye",
+"oyku"
+],
+"desc": "Holmes'un savaş yıllarına uzanan son vakaları.",
+"source": "Project Gutenberg #2350",
+"tr": "Son Selam",
+"words": 58792,
+"chapters": 6,
+"size": 122933
+},
+{
+"id": "en-863",
+"title": "The Mysterious Affair at Styles",
+"author": "Agatha Christie",
+"lang": "en",
+"genres": [
+"polisiye"
+],
+"desc": "Agatha Christie'nin ilk romanı ve Hercule Poirot'nun ilk vakası.",
+"source": "Project Gutenberg #863",
+"tr": "Styles'daki Esrarengiz Olay",
+"words": 56382,
+"chapters": 13,
+"size": 118988
+},
+{
+"id": "en-103",
+"title": "Around the World in Eighty Days",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Phileas Fogg'un bir iddia uğruna dünyayı seksen günde dolaşma yarışı.",
+"source": "Project Gutenberg #103",
+"tr": "80 Günde Devr-i Âlem",
+"translator": "George M. Towle",
+"words": 62843,
+"chapters": 35,
+"size": 137321
+},
+{
+"id": "en-3526",
+"title": "Five Weeks in a Balloon",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Afrika'yı balonla boydan boya geçmeye çalışan üç gezgin.",
+"source": "Project Gutenberg #3526",
+"tr": "Balonla Beş Hafta",
+"words": 90168,
+"chapters": 44,
+"size": 197863
+},
+{
+"id": "en-910",
+"title": "White Fang",
+"author": "Jack London",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Yarı kurt yarı köpek Beyaz Diş'in vahşi doğadan insan dünyasına uzanan yolculuğu.",
+"source": "Project Gutenberg #910",
+"tr": "Beyaz Diş",
+"words": 71892,
+"chapters": 25,
+"size": 142043
+},
+{
+"id": "en-120",
+"title": "Treasure Island",
+"author": "Robert Louis Stevenson",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Genç Jim Hawkins, korsan Long John Silver ve gömülü hazine haritası.",
+"source": "Project Gutenberg #120",
+"tr": "Define Adası",
+"words": 67668,
+"chapters": 32,
+"size": 137571
+},
+{
+"id": "en-1074",
+"title": "The Sea-Wolf",
+"author": "Jack London",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Acımasız kaptan Wolf Larsen'in gemisine düşen bir edebiyatçının hayatta kalma mücadelesi.",
+"source": "Project Gutenberg #1074",
+"tr": "Deniz Kurdu",
+"words": 105476,
+"chapters": 39,
+"size": 218535
+},
+{
+"id": "en-164",
+"title": "Twenty Thousand Leagues under the Sea",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera",
+"bilimkurgu"
+],
+"desc": "Kaptan Nemo ve efsanevi denizaltı Nautilus ile okyanusların derinliklerine yolculuk.",
+"source": "Project Gutenberg #164",
+"tr": "Denizler Altında Yirmi Bin Fersah",
+"words": 104060,
+"chapters": 46,
+"size": 221615
+},
+{
+"id": "en-18857",
+"title": "A Journey to the Centre of the Earth",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera",
+"bilimkurgu"
+],
+"desc": "Bir İzlanda yanardağından dünyanın içine inen profesör ve yeğeni.",
+"source": "Project Gutenberg #18857",
+"tr": "Dünyanın Merkezine Yolculuk",
+"words": 85159,
+"chapters": 44,
+"size": 181427
+},
+{
+"id": "en-1268",
+"title": "The Mysterious Island",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Balonla kaçan beş adamın bilinmeyen bir adada sıfırdan hayat kurması.",
+"source": "Project Gutenberg #1268",
+"tr": "Esrarlı Ada",
+"translator": "Agnes Kinloch Kingston",
+"words": 193189,
+"chapters": 62,
+"size": 386677
+},
+{
+"id": "en-829",
+"title": "Gulliver's Travels",
+"author": "Jonathan Swift",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Cüceler, devler, uçan ada ve konuşan atlar: Swift'in hiciv dolu yolculukları.",
+"source": "Project Gutenberg #829",
+"tr": "Gulliver'in Gezileri",
+"words": 104968,
+"chapters": 40,
+"size": 210699
+},
+{
+"id": "en-76",
+"title": "Adventures of Huckleberry Finn",
+"author": "Mark Twain",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Huck ve kaçak köle Jim'in Mississippi Nehri'nde salla yolculuğu.",
+"source": "Project Gutenberg #76",
+"tr": "Huckleberry Finn'in Maceraları",
+"words": 110590,
+"chapters": 45,
+"size": 206472
+},
+{
+"id": "en-82",
+"title": "Ivanhoe: A Romance",
+"author": "Walter Scott",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Haçlı Seferleri sonrası İngiltere'de şövalyeler, turnuvalar ve Robin Hood.",
+"source": "Project Gutenberg #82",
+"tr": "Ivanhoe",
+"words": 191540,
+"chapters": 45,
+"size": 422245
+},
+{
+"id": "en-1965",
+"title": "Captain Blood",
+"author": "Rafael Sabatini",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Haksızca köle yapılan bir doktorun Karayipler'in en ünlü korsanına dönüşmesi.",
+"source": "Project Gutenberg #1965",
+"tr": "Kaptan Blood",
+"words": 112892,
+"chapters": 31,
+"size": 240376
+},
+{
+"id": "en-139",
+"title": "The Lost World",
+"author": "Arthur Conan Doyle",
+"lang": "en",
+"genres": [
+"macera",
+"bilimkurgu"
+],
+"desc": "Güney Amerika'da dinozorların hâlâ yaşadığı bir yayla keşfediliyor.",
+"source": "Project Gutenberg #139",
+"tr": "Kayıp Dünya",
+"words": 75514,
+"chapters": 16,
+"size": 160098
+},
+{
+"id": "en-421",
+"title": "Kidnapped",
+"author": "Robert Louis Stevenson",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Amcası tarafından kaçırılıp gemiye satılan David Balfour'un İskoçya maceraları.",
+"source": "Project Gutenberg #421",
+"tr": "Kaçırılan Çocuk",
+"words": 81659,
+"chapters": 31,
+"size": 161046
+},
+{
+"id": "en-2166",
+"title": "King Solomon's Mines",
+"author": "H. Rider Haggard",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Afrika'nın bilinmeyen topraklarında efsanevi elmas madenlerinin peşinde.",
+"source": "Project Gutenberg #2166",
+"tr": "Kral Süleyman'ın Hazineleri",
+"words": 82096,
+"chapters": 21,
+"size": 168355
+},
+{
+"id": "en-60",
+"title": "The Scarlet Pimpernel",
+"author": "Baroness Orczy",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Fransız Devrimi'nde giyotinden aristokratları kurtaran gizemli kahraman.",
+"source": "Project Gutenberg #60",
+"tr": "Kızıl Menekşe",
+"words": 85463,
+"chapters": 31,
+"size": 178390
+},
+{
+"id": "en-62",
+"title": "A Princess of Mars",
+"author": "Edgar Rice Burroughs",
+"lang": "en",
+"genres": [
+"macera",
+"bilimkurgu"
+],
+"desc": "Mars'a ışınlanan bir Amerikan askerinin dev yaratıklar ve prensesler arasındaki serüveni.",
+"source": "Project Gutenberg #62",
+"tr": "Mars Prensesi",
+"words": 67213,
+"chapters": 29,
+"size": 135495
+},
+{
+"id": "en-78",
+"title": "Tarzan of the Apes",
+"author": "Edgar Rice Burroughs",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Afrika ormanlarında maymunlar tarafından büyütülen Lord Greystoke'un oğlu.",
+"source": "Project Gutenberg #78",
+"tr": "Maymunların Tarzanı",
+"words": 85499,
+"chapters": 28,
+"size": 175340
+},
+{
+"id": "en-1842",
+"title": "Michael Strogoff",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Çar'ın ulağının Sibirya'nın vahşi bozkırlarında hayati bir mesajı taşıması.",
+"source": "Project Gutenberg #1842",
+"tr": "Mihail Strogof",
+"words": 93416,
+"chapters": 32,
+"size": 194525
+},
+{
+"id": "en-2701",
+"title": "Moby Dick; Or, The Whale",
+"author": "Herman Melville",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Kaptan Ahab'ın beyaz balinaya duyduğu saplantılı intikam.",
+"source": "Project Gutenberg #2701",
+"tr": "Moby Dick",
+"words": 211397,
+"chapters": 135,
+"size": 484076
+},
+{
+"id": "en-1184",
+"title": "The Count of Monte Cristo",
+"author": "Alexandre Dumas",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Haksızca zindana atılan Edmond Dantès'in kaçışı, servet bulması ve intikamı.",
+"source": "Project Gutenberg #1184",
+"tr": "Monte Kristo Kontu",
+"words": 460380,
+"chapters": 118,
+"size": 965469
+},
+{
+"id": "en-236",
+"title": "The Jungle Book",
+"author": "Rudyard Kipling",
+"lang": "en",
+"genres": [
+"macera",
+"masal"
+],
+"desc": "Kurtlar tarafından büyütülen Mowgli ve Hindistan ormanlarının hikâyeleri.",
+"source": "Project Gutenberg #236",
+"tr": "Orman Çocuğu",
+"words": 50835,
+"chapters": 12,
+"size": 99798
+},
+{
+"id": "en-16",
+"title": "Peter Pan",
+"author": "J. M. Barrie",
+"lang": "en",
+"genres": [
+"macera",
+"masal"
+],
+"desc": "Hiç büyümeyen çocuk, Kaptan Kanca ve Varolmayan Ülke.",
+"source": "Project Gutenberg #16",
+"tr": "Peter Pan",
+"words": 47019,
+"chapters": 17,
+"size": 95860
+},
+{
+"id": "en-10148",
+"title": "The Merry Adventures of Robin Hood",
+"author": "Howard Pyle",
+"lang": "en",
+"genres": [
+"macera",
+"masal"
+],
+"desc": "Sherwood Ormanı'nın efsanevi okçusu ve neşeli adamları.",
+"source": "Project Gutenberg #10148",
+"tr": "Robin Hood'un Neşeli Maceraları",
+"words": 111055,
+"chapters": 13,
+"size": 207996
+},
+{
+"id": "en-521",
+"title": "The Life and Adventures of Robinson Crusoe",
+"author": "Daniel Defoe",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Issız bir adaya düşen denizcinin yirmi sekiz yıllık hayatta kalma mücadelesi.",
+"source": "Project Gutenberg #521",
+"tr": "Robinson Crusoe",
+"words": 120687,
+"chapters": 20,
+"size": 215857
+},
+{
+"id": "en-940",
+"title": "The Last of the Mohicans; A Narrative of 1757",
+"author": "James Fenimore Cooper",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Amerika'nın vahşi ormanlarında İngiliz-Fransız savaşı sırasında bir kaçış.",
+"source": "Project Gutenberg #940",
+"tr": "Son Mohikan",
+"words": 148346,
+"chapters": 34,
+"size": 312644
+},
+{
+"id": "en-74",
+"title": "The Adventures of Tom Sawyer, Complete",
+"author": "Mark Twain",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Mississippi kıyısındaki bir kasabada yaramaz Tom'un hazine ve cinayet dolu yazı.",
+"source": "Project Gutenberg #74",
+"tr": "Tom Sawyer'ın Maceraları",
+"words": 70345,
+"chapters": 36,
+"size": 151785
+},
+{
+"id": "en-215",
+"title": "The Call of the Wild",
+"author": "Jack London",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "Evcil köpek Buck'ın Alaska'nın karlı topraklarında vahşi doğaya dönüşü.",
+"source": "Project Gutenberg #215",
+"tr": "Vahşetin Çağrısı",
+"words": 31716,
+"chapters": 7,
+"size": 66769
+},
+{
+"id": "en-1259",
+"title": "Twenty Years After",
+"author": "Alexandre Dumas",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Üç Silahşörler'in devamı: eski dostlar iç savaşta yeniden bir arada.",
+"source": "Project Gutenberg #1259",
+"tr": "Yirmi Yıl Sonra",
+"words": 241456,
+"chapters": 91,
+"size": 500417
+},
+{
+"id": "en-95",
+"title": "The Prisoner of Zenda",
+"author": "Anthony Hope",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Taç giyme töreni öncesi kaçırılan krala tıpatıp benzeyen bir İngiliz'in tehlikeli oyunu.",
+"source": "Project Gutenberg #95",
+"tr": "Zenda Mahkûmu",
+"words": 53415,
+"chapters": 22,
+"size": 110396
+},
+{
+"id": "en-1257",
+"title": "The Three Musketeers",
+"author": "Alexandre Dumas",
+"lang": "en",
+"genres": [
+"macera",
+"klasik"
+],
+"desc": "D'Artagnan, Athos, Porthos ve Aramis: Biri hepimiz, hepimiz biri için!",
+"source": "Project Gutenberg #1257",
+"tr": "Üç Silahşörler",
+"words": 229014,
+"chapters": 68,
+"size": 466427
+},
+{
+"id": "en-3836",
+"title": "Swiss Family Robinson",
+"author": "Johann David Wyss",
+"lang": "en",
+"genres": [
+"macera"
+],
+"desc": "Gemi kazasından kurtulup ıssız bir adada yeni bir hayat kuran aile.",
+"source": "Project Gutenberg #3836",
+"tr": "İsviçreli Robinson Ailesi",
+"words": 126255,
+"chapters": 19,
+"size": 266816
+},
+{
+"id": "en-83",
+"title": "From the Earth to the Moon",
+"author": "Jules Verne",
+"lang": "en",
+"genres": [
+"bilimkurgu",
+"macera"
+],
+"desc": "Dev bir topla Ay'a mermi göndermeye karar veren Amerikan top kulübü.",
+"source": "Project Gutenberg #83",
+"tr": "Ay'a Yolculuk",
+"words": 90829,
+"chapters": 51,
+"size": 195305
+},
+{
+"id": "en-1013",
+"title": "The First Men in the Moon",
+"author": "H. G. Wells",
+"lang": "en",
+"genres": [
+"bilimkurgu"
+],
+"desc": "Yerçekimini engelleyen bir maddeyle Ay'a giden iki adam.",
+"source": "Project Gutenberg #1013",
+"tr": "Ay'daki İlk İnsanlar",
+"words": 68115,
+"chapters": 22,
+"size": 142821
+},
+{
+"id": "en-159",
+"title": "The Island of Doctor Moreau",
+"author": "H. G. Wells",
+"lang": "en",
+"genres": [
+"bilimkurgu",
+"korku"
+],
+"desc": "Issız bir adada hayvanları insana dönüştürmeye çalışan çılgın bir doktor.",
+"source": "Project Gutenberg #159",
+"tr": "Dr. Moreau'nun Adası",
+"words": 43426,
+"chapters": 23,
+"size": 91330
+},
+{
+"id": "en-36",
+"title": "The War of the Worlds",
+"author": "H. G. Wells",
+"lang": "en",
+"genres": [
+"bilimkurgu"
+],
+"desc": "Marslıların İngiltere'yi istila edişi.",
+"source": "Project Gutenberg #36",
+"tr": "Dünyalar Savaşı",
+"words": 59823,
+"chapters": 28,
+"size": 126697
+},
+{
+"id": "en-5230",
+"title": "The Invisible Man: A Grotesque Romance",
+"author": "H. G. Wells",
+"lang": "en",
+"genres": [
+"bilimkurgu",
+"korku"
+],
+"desc": "Kendini görünmez yapan bir bilim insanının küçük bir kasabada yarattığı kaos.",
+"source": "Project Gutenberg #5230",
+"tr": "Görünmez Adam",
+"words": 48164,
+"chapters": 28,
+"size": 102628
+},
+{
+"id": "en-32",
+"title": "Herland",
+"author": "Charlotte Perkins Gilman",
+"lang": "en",
+"genres": [
+"bilimkurgu"
+],
+"desc": "Yalnızca kadınlardan oluşan ütopik bir ülkeye giden üç kâşif.",
+"source": "Project Gutenberg #32",
+"tr": "Kadınlar Ülkesi",
+"words": 52092,
+"chapters": 12,
+"size": 114595
+},
+{
+"id": "en-35",
+"title": "The Time Machine",
+"author": "H. G. Wells",
+"lang": "en",
+"genres": [
+"bilimkurgu"
+],
+"desc": "Zamanda yolculuk yapan mucidin 802.701 yılında karşılaştığı insanlık.",
+"source": "Project Gutenberg #35",
+"tr": "Zaman Makinesi",
+"words": 32311,
+"chapters": 16,
+"size": 67941
+},
+{
+"id": "en-161",
+"title": "Sense and Sensibility",
+"author": "Jane Austen",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Dashwood kardeşlerin aşkla ve toplumla sınavı.",
+"source": "Project Gutenberg #161",
+"tr": "Akıl ve Tutku",
+"words": 118651,
+"chapters": 50,
+"size": 236815
+},
+{
+"id": "en-11",
+"title": "Alice's Adventures in Wonderland",
+"author": "Lewis Carroll",
+"lang": "en",
+"genres": [
+"klasik",
+"masal"
+],
+"desc": "Bir tavşan deliğinden düşen Alice'in akıl almaz dünyası.",
+"source": "Project Gutenberg #11",
+"tr": "Alice Harikalar Diyarında",
+"words": 26311,
+"chapters": 12,
+"size": 51070
+},
+{
+"id": "en-1399",
+"title": "Anna Karenina",
+"author": "Lev Tolstoy",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Yasak bir aşkın Rus aristokrasisindeki yıkıcı sonuçları.",
+"source": "Project Gutenberg #1399",
+"tr": "Anna Karenina",
+"translator": "Constance Garnett",
+"words": 349242,
+"chapters": 239,
+"size": 705214
+},
+{
+"id": "en-46",
+"title": "A Christmas Carol",
+"author": "Charles Dickens",
+"lang": "en",
+"genres": [
+"klasik",
+"masal"
+],
+"desc": "Cimri Scrooge'u Noel gecesi ziyaret eden üç hayalet.",
+"source": "Project Gutenberg #46",
+"tr": "Bir Noel Şarkısı",
+"words": 28402,
+"chapters": 5,
+"size": 61780
+},
+{
+"id": "en-2638",
+"title": "The Idiot",
+"author": "Fyodor Dostoyevsky",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Saf ve iyi kalpli Prens Mışkin'in Petersburg sosyetesindeki trajedisi.",
+"source": "Project Gutenberg #2638",
+"tr": "Budala",
+"translator": "Eva Martin",
+"words": 241469,
+"chapters": 50,
+"size": 492735
+},
+{
+"id": "en-1400",
+"title": "Great Expectations",
+"author": "Charles Dickens",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Yetim Pip'in gizemli bir hayırseverin yardımıyla beyefendiliğe uzanan yolu.",
+"source": "Project Gutenberg #1400",
+"tr": "Büyük Umutlar",
+"words": 184218,
+"chapters": 59,
+"size": 372677
+},
+{
+"id": "en-19942",
+"title": "Candide",
+"author": "Voltaire",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Voltaire'in iyimserliği tiye aldığı, felaketten felakete koşan saf gencin hikâyesi.",
+"source": "Project Gutenberg #19942",
+"tr": "Candide",
+"words": 35850,
+"chapters": 31,
+"size": 78100
+},
+{
+"id": "en-7849",
+"title": "The Trial",
+"author": "Franz Kafka",
+"lang": "en",
+"genres": [
+"klasik",
+"polisiye"
+],
+"desc": "Neyle suçlandığını hiç öğrenemeyen Josef K.'nın bitmeyen davası.",
+"source": "Project Gutenberg #7849",
+"tr": "Dava",
+"translator": "David Wyllie",
+"words": 83663,
+"chapters": 11,
+"size": 155582
+},
+{
+"id": "en-996",
+"title": "Don Quixote",
+"author": "Miguel de Cervantes",
+"lang": "en",
+"genres": [
+"klasik",
+"macera"
+],
+"desc": "Şövalye romanlarıyla aklını yitiren soylunun ve uşağı Sancho'nun maceraları.",
+"source": "Project Gutenberg #996",
+"tr": "Don Kişot",
+"translator": "John Ormsby",
+"words": 424699,
+"chapters": 78,
+"size": 845849
+},
+{
+"id": "en-5200",
+"title": "Metamorphosis",
+"author": "Franz Kafka",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Bir sabah dev bir böceğe dönüşmüş olarak uyanan Gregor Samsa.",
+"source": "Project Gutenberg #5200",
+"tr": "Dönüşüm",
+"translator": "David Wyllie",
+"words": 21932,
+"chapters": 3,
+"size": 42289
+},
+{
+"id": "en-158",
+"title": "Emma",
+"author": "Jane Austen",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Çöpçatanlığa meraklı Emma Woodhouse'un karıştırdığı aşk hayatları.",
+"source": "Project Gutenberg #158",
+"tr": "Emma",
+"words": 157321,
+"chapters": 55,
+"size": 314911
+},
+{
+"id": "en-1342",
+"title": "Pride and Prejudice",
+"author": "Jane Austen",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Elizabeth Bennet ve Bay Darcy: önyargıların aşka dönüştüğü ölümsüz roman.",
+"source": "Project Gutenberg #1342",
+"tr": "Gurur ve Önyargı",
+"words": 126475,
+"chapters": 62,
+"size": 252685
+},
+{
+"id": "en-1260",
+"title": "Jane Eyre: An Autobiography",
+"author": "Charlotte Brontë",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Yetim bir mürebbiyenin bağımsızlık ve aşk arayışı, Thornfield Konağı'nın sırrı.",
+"source": "Project Gutenberg #1260",
+"tr": "Jane Eyre",
+"words": 185314,
+"chapters": 39,
+"size": 405933
+},
+{
+"id": "en-28054",
+"title": "The Brothers Karamazov",
+"author": "Fyodor Dostoyevsky",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Bir baba, dört oğul ve bir cinayet: Dostoyevski'nin başyapıtı.",
+"source": "Project Gutenberg #28054",
+"tr": "Karamazov Kardeşler",
+"translator": "Constance Garnett",
+"words": 347990,
+"chapters": 96,
+"size": 699094
+},
+{
+"id": "en-219",
+"title": "Heart of Darkness",
+"author": "Joseph Conrad",
+"lang": "en",
+"genres": [
+"klasik",
+"macera"
+],
+"desc": "Kongo Nehri'nde gizemli Kurtz'u arayan Marlow'un yolculuğu.",
+"source": "Project Gutenberg #219",
+"tr": "Karanlığın Yüreği",
+"words": 37904,
+"chapters": 3,
+"size": 82915
+},
+{
+"id": "en-37106",
+"title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+"author": "Louisa May Alcott",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "March kardeşlerin savaş yıllarında büyüme hikâyesi.",
+"source": "Project Gutenberg #37106",
+"tr": "Küçük Kadınlar",
+"words": 189655,
+"chapters": 47,
+"size": 399205
+},
+{
+"id": "en-33",
+"title": "The Scarlet Letter",
+"author": "Nathaniel Hawthorne",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Püriten Boston'da göğsünde kırmızı 'A' harfi taşıyan kadın.",
+"source": "Project Gutenberg #33",
+"tr": "Kızıl Damga",
+"words": 82913,
+"chapters": 25,
+"size": 184201
+},
+{
+"id": "en-2413",
+"title": "Madame Bovary",
+"author": "Gustave Flaubert",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Taşra hayatından sıkılan Emma Bovary'nin hayalleri ve düşüşü.",
+"source": "Project Gutenberg #2413",
+"tr": "Madam Bovary",
+"translator": "Eleanor Marx Aveling",
+"words": 115475,
+"chapters": 35,
+"size": 253857
+},
+{
+"id": "en-145",
+"title": "Middlemarch",
+"author": "George Eliot",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Bir İngiliz taşra kasabasında hayaller, evlilikler ve hayal kırıklıkları.",
+"source": "Project Gutenberg #145",
+"tr": "Middlemarch",
+"words": 316169,
+"chapters": 87,
+"size": 667486
+},
+{
+"id": "en-64317",
+"title": "The Great Gatsby",
+"author": "F. Scott Fitzgerald",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Caz Çağı'nda gizemli milyoner Gatsby'nin kayıp aşkına uzanan rüyası.",
+"source": "Project Gutenberg #64317",
+"tr": "Muhteşem Gatsby",
+"words": 48143,
+"chapters": 9,
+"size": 105826
+},
+{
+"id": "en-2610",
+"title": "Notre-Dame De Paris",
+"author": "Victor Hugo",
+"lang": "en",
+"genres": [
+"klasik",
+"macera"
+],
+"desc": "Kambur Quasimodo, çingene kızı Esmeralda ve Ortaçağ Paris'i.",
+"source": "Project Gutenberg #2610",
+"tr": "Notre-Dame'ın Kamburu",
+"translator": "Isabel Florence Hapgood",
+"words": 183399,
+"chapters": 59,
+"size": 401599
+},
+{
+"id": "en-1727",
+"title": "The Odyssey",
+"author": "Homer",
+"lang": "en",
+"genres": [
+"klasik",
+"macera",
+"masal"
+],
+"desc": "Truva Savaşı'ndan dönen Odysseus'un on yıllık eve dönüş yolculuğu.",
+"source": "Project Gutenberg #1727",
+"tr": "Odysseia",
+"translator": "Samuel Butler",
+"words": 129517,
+"chapters": 25,
+"size": 245222
+},
+{
+"id": "en-730",
+"title": "Oliver Twist",
+"author": "Charles Dickens",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Londra sokaklarında hırsız çetesinin eline düşen yetim çocuk.",
+"source": "Project Gutenberg #730",
+"tr": "Oliver Twist",
+"words": 157522,
+"chapters": 40,
+"size": 339376
+},
+{
+"id": "en-2600",
+"title": "War and Peace",
+"author": "Lev Tolstoy",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Napolyon savaşları sırasında beş Rus ailesinin hayatı.",
+"source": "Project Gutenberg #2600",
+"tr": "Savaş ve Barış",
+"translator": "Aylmer Maude Louise Maude",
+"words": 561702,
+"chapters": 365,
+"size": 1164239
+},
+{
+"id": "en-135",
+"title": "Les Misérables",
+"author": "Victor Hugo",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Eski kürek mahkûmu Jean Valjean'ın kurtuluş arayışı ve Javert'in takibi.",
+"source": "Project Gutenberg #135",
+"tr": "Sefiller",
+"translator": "Isabel Florence Hapgood",
+"words": 560224,
+"chapters": 363,
+"size": 1214740
+},
+{
+"id": "en-2500",
+"title": "Siddhartha",
+"author": "Hermann Hesse",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Hindistan'da aydınlanma arayan genç bir Brahman'ın yolculuğu.",
+"source": "Project Gutenberg #2500",
+"tr": "Siddhartha",
+"words": 39078,
+"chapters": 11,
+"size": 75017
+},
+{
+"id": "en-2554",
+"title": "Crime and Punishment",
+"author": "Fyodor Dostoyevsky",
+"lang": "en",
+"genres": [
+"klasik",
+"polisiye"
+],
+"desc": "Raskolnikov'un işlediği cinayet ve vicdanıyla hesaplaşması.",
+"source": "Project Gutenberg #2554",
+"tr": "Suç ve Ceza",
+"translator": "Constance Garnett",
+"words": 198349,
+"chapters": 39,
+"size": 403198
+},
+{
+"id": "en-203",
+"title": "Uncle Tom's Cabin",
+"author": "Harriet Beecher Stowe",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Kölelik karşıtı hareketi ateşleyen roman.",
+"source": "Project Gutenberg #203",
+"tr": "Tom Amca'nın Kulübesi",
+"words": 180336,
+"chapters": 45,
+"size": 387646
+},
+{
+"id": "en-768",
+"title": "Wuthering Heights",
+"author": "Emily Brontë",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Heathcliff ile Catherine'in yıkıcı, tutkulu aşkı.",
+"source": "Project Gutenberg #768",
+"tr": "Uğultulu Tepeler",
+"words": 115815,
+"chapters": 34,
+"size": 254640
+},
+{
+"id": "en-600",
+"title": "Notes from the Underground",
+"author": "Fyodor Dostoyevsky",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Toplumdan kopmuş bir adamın acı ve ironik itirafları.",
+"source": "Project Gutenberg #600",
+"tr": "Yeraltından Notlar",
+"translator": "Constance Garnett",
+"words": 32369,
+"chapters": 15,
+"size": 65715
+},
+{
+"id": "en-98",
+"title": "A Tale of Two Cities",
+"author": "Charles Dickens",
+"lang": "en",
+"genres": [
+"klasik"
+],
+"desc": "Fransız Devrimi sırasında Londra ve Paris arasında aşk ve fedakârlık.",
+"source": "Project Gutenberg #98",
+"tr": "İki Şehrin Hikâyesi",
+"words": 135594,
+"chapters": 47,
+"size": 283204
+},
+{
+"id": "en-1597",
+"title": "Andersen's Fairy Tales",
+"author": "H. C. Andersen",
+"lang": "en",
+"genres": [
+"masal"
+],
+"desc": "Çirkin Ördek Yavrusu, Küçük Deniz Kızı, Kibritçi Kız ve diğerleri.",
+"source": "Project Gutenberg #1597",
+"tr": "Andersen Masalları",
+"words": 55280,
+"chapters": 18,
+"size": 109669
+},
+{
+"id": "en-128",
+"title": "The Arabian Nights Entertainments",
+"author": "Andrew Lang (derleyen)",
+"lang": "en",
+"genres": [
+"masal",
+"macera"
+],
+"desc": "Şehrazat'ın anlattığı Alaaddin, Ali Baba ve Sinbad'ın hikâyeleri.",
+"source": "Project Gutenberg #128",
+"tr": "Binbir Gece Masalları",
+"words": 111597,
+"chapters": 27,
+"size": 210224
+},
+{
+"id": "en-2591",
+"title": "Grimms' Fairy Tales",
+"author": "Grimm Kardeşler",
+"lang": "en",
+"genres": [
+"masal"
+],
+"desc": "Kırmızı Başlıklı Kız, Hansel ile Gretel, Pamuk Prenses ve daha nicesi.",
+"source": "Project Gutenberg #2591",
+"tr": "Grimm Masalları",
+"words": 100850,
+"chapters": 65,
+"size": 176348
+}
+]
