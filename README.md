@@ -2,6 +2,17 @@
 
 İnternetsiz çalışan bir Windows kitap okuma uygulaması. 136 kitap uygulamanın içinde gelir: 22 Türkçe, 114 İngilizce. İngilizce kitaplar Türkçe de okunabilir; 36'sının (22 kısa klasik ve Drakula, Jane Eyre, Suç ve Ceza gibi 14 uzun roman) Türkçesi önceden hazırlanmıştır. Okurken hiç internet kullanılmaz.
 
+## Ekran Görüntüleri
+
+**Ana sayfa:** Kaldığınız yerden devam, türlere ayrılmış raflar ve uygulamaya özel öyküler
+![Ana sayfa](screenshots/ana-sayfa.png)
+
+**Kitap kartı:** Özet, okuma süresi, içindekiler ve Türkçe çevirinin hazır olma durumu
+![Kitap kartı](screenshots/kitap-detay.png)
+
+**Yan yana okuma:** İngilizce özgün metin ve cihaz üstü makine çevirisi aynı ekranda
+![Yan yana okuma](screenshots/yan-yana-okuma.png)
+
 ## İçerik
 
 | Tür | Örnekler |
